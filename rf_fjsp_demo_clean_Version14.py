@@ -2,7 +2,7 @@
 """
 rf_fjsp_demo_clean.py
 
-Clean, repo-ready demo for Relative Feasibility (RF) on a Flexible Job Shop Scheduling (FJSP)-style instance.
+ Relative Feasibility (RF) on a Flexible Job Shop Scheduling (FJSP)-style instance.
 
 Goals:
 - Conservative by default: accept prunes only when CP-SAT proves infeasibility under a tightened incumbent bound.
